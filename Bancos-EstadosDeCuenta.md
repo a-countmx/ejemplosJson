@@ -1,4 +1,4 @@
-# Consumo de Timbrado :bellhop_bell:
+# Consumo de Timbrado Estados de Cuenta :bellhop_bell:
 
 Este es un ejemplo para el consumo del servicio de timbrado enfocado a Estados de cuentas bancarios  :
 
